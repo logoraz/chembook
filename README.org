@@ -3,7 +3,8 @@
 
 * Introduction
 
-  Formulation Chemistry and Regulatory Software, written entirely in Common Lisp...
+  Advanced Formulation Chemistry and Regulatory Software, written entirely in
+  Common Lisp (Clozure CL)...
 
 * Outline
 
