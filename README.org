@@ -1,0 +1,10 @@
+#+title: ChemBook
+#+subtitle: Intellisense for formulation chemistry.
+
+* Introduction
+
+  Formulation Chemistry and Regulatory Software, written entirely in Common Lisp...
+
+* Outline
+
+* References
