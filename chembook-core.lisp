@@ -4,7 +4,12 @@
 
 ;; Commentary:
 ;;
-;; This file constituate the core features of ChemBook.
+;; Dummy Common Lisp File...
+;;
+;; Intention is to write this program entirely in Common Lisp (Clozure CL).
+;;
+;; This file will act as the 'playground' for which will become the core
+;; components of what is to become of ChemBook!
 ;;
 
 ;; Code:
