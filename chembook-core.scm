@@ -15,17 +15,17 @@
 ;; Code:
 
 ;; First Function
-(defun hello-world (name)
-  "Hello world from `name'."
-  (format t "Hello World!~& - from: ~a ~&" name))
+(define (hello-world name)
+  "First function in Guile Scheme."
+  (string-append "Hello world from " name "!"))
 
 (hello-world "ChemBook")
 
 ;; First Macro's - An important step for Lisp!
-(defmacro incr (var)
+(define-macro incr (var)
   "Macro to increment var."
   `(setq ,var (1+ ,var)))
 
-(defmacro decr (var)
+(define-macro decr (var)
   "Macro to decrement var."
   `(setq ,var (1- ,var)))
