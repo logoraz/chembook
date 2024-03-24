@@ -4,9 +4,9 @@
 
 ;; Commentary:
 ;;
-;; Dummy Common Lisp File...
+;; Dummy Guile Scheme File...
 ;;
-;; Intention is to write this program entirely in Common Lisp (Clozure CL).
+;; Intention is to write this program entirely in Guile Scheme.
 ;;
 ;; This file will act as the 'playground' for which will become the core
 ;; components of what is to become of ChemBook!
