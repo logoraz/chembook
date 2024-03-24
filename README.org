@@ -1,10 +1,10 @@
 #+title: ChemBook
-#+subtitle: Intellisense for formulation chemistry.
+#+subtitle: Chemical & Regulatory intellisense for formulation chemistry.
 
 * Introduction
 
   Advanced Formulation Chemistry and Regulatory Software, written entirely in
-  Common Lisp (Clozure CL)...
+  Guile Scheme - a WIP...
 
 * Outline
 
